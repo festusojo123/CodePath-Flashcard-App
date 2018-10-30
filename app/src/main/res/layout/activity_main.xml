@@ -24,24 +24,4 @@
         android:textAlignment="center"
         android:textColor="@android:color/black" />
 
-    <ImageView
-        android:id="@+id/imageView1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        C:\Users\festusojo\Downloads\iconmonstr-plus-6-240.png
-        android:src="@drawable/ic_launcher_background"" />
-
-    <Button
-        android:id="@+id/btnChangeImage"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Change Image" />
-
-    <EditText
-        android:id="@+id/editTextField"
-        android:layout_width="match_parent"
-        android:layout_height="70dp"
-        android:layout_margin="20dp"
-        android:hint="Enter the answer here" />
-
 </android.support.constraint.ConstraintLayout>
