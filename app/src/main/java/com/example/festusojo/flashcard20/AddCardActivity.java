@@ -13,14 +13,6 @@ public class AddCardActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_card);
 
-        findViewById(R.id.PlusButton).setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this, AddCardActivity.class)
-                MainActivity.this.startActivity(intent);
-            }
-        })
-
         findViewById(R.id.Cancel).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
