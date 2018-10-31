@@ -26,8 +26,8 @@ public class AddCardActivity extends AppCompatActivity {
                 Intent intent = new Intent(AddCardActivity.this, MainActivity.class);
 
                 Intent myIntent = new Intent(); // create a new Intent, this is where we will put our data
-                myIntent.putExtra("stringAnswer", "((EditText) findViewById(R.id.userAnswer)).getText().toString()");
-                myIntent.putExtra("stringQuestion", "((EditText) findViewById(R.id.userQuestion)).getText().toString()");
+                myIntent.putExtra("stringAnswer", ((EditText) findViewById(R.id.userAnswer)).getText().toString());
+                myIntent.putExtra("stringQuestion", ((EditText) findViewById(R.id.userQuestion)).getText().toString());
                 setResult(RESULT_OK, myIntent); // set result code and bundle data for response
                 finish();;
             }

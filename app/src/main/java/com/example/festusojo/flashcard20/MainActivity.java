@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(MainActivity.this, AddCardActivity.class);
-                MainActivity.this.startActivity(intent);
+                startActivityForResult(intent, 100);
             }
         });
     }
