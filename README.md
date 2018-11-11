@@ -4,7 +4,7 @@
 App lets user build a flashcard dynamically
 
 ### App Walk-though
-<img src="x/x.gif" width=200><br>
+<img src="https://github.com/festusojo123/CodePath-Flashcard-App/blob/master/Lab%202.png" width=200><br>
 
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
