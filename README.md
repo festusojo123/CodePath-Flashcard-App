@@ -27,7 +27,7 @@ App lets user build a flashcard dynamically
 App has a flashcard and when pressed, gives the answer.
 
 ### App Walk-though
-<img src="https://github.com/festusojo123/Flashcard2.0/raw/master/image.png" width=200><br>
+<img src="https://github.com/festusojo123/CodePath-Flashcard-App/blob/master/Lab%201.png" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
