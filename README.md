@@ -6,8 +6,6 @@ App now allows users to create a flashcard, save it, and make a deck of flashcar
 ### App Walk-though
 <img src="https://github.com/festusojo123/CodePath-Flashcard-App/blob/master/Lab%203.png" width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
-
 ## Required
 - [x] User can create a card and still see their created card when the app is relaunched.
 - [x] User can create muliple cards and browse through all created cards
