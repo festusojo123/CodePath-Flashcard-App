@@ -8,20 +8,24 @@
     tools:context=".MainActivity">
 
     <TextView
-    android:id="@+id/Flashcard_Answer"
-    android:layout_width="match_parent"
-    android:layout_height="200dp"
-    android:textColor= "@android:color/black"
-    android:text="How old do you have to be in order to be president?"
-    android:textSize="40sp"
-    />
+        android:id="@+id/Flashcard_Answer"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:text="How old do you have to be in order to be president?"
+        android:textColor="@android:color/black"
+        android:textSize="40sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="58dp" />
 
     <TextView
         android:id="@+id/correct_answer"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="158dp"
+        android:layout_height="107dp"
         android:text="35 years old"
         android:textAlignment="center"
-        android:textColor="@android:color/black" />
+        android:textColor="@android:color/black"
+        android:textSize="30sp"
+        tools:layout_editor_absoluteX="102dp"
+        tools:layout_editor_absoluteY="297dp" />
 
 </android.support.constraint.ConstraintLayout>

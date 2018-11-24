@@ -34,7 +34,7 @@
                                   <option name="values">
                                     <map>
                                       <entry key="backgroundLayerName" value="ic_launcher_background" />
-                                      <entry key="foregroundImage" value="C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Android Studio\iconmonstr-plus-6-240.png" />
+                                      <entry key="foregroundImage" value="C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Android Studio\iconmonstr-education-1.svg" />
                                       <entry key="foregroundLayerName" value="ic_launcher_foreground" />
                                       <entry key="outputName" value="button" />
                                     </map>
